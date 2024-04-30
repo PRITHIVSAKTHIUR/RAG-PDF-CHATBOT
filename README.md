@@ -35,3 +35,15 @@ license: creativeml-openrail-m
 .
 
 .
+
+## Requirements Applied 
+
+streamlit
+
+python-dotenv
+
+llama-index
+
+llama-index-embeddings-huggingface
+
+llama-index-llms-huggingface
