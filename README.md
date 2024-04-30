@@ -1,3 +1,5 @@
+## Retrieval-Augmented Generation [ RAG ] 
+
 ---
 title: RAG PDF CHATBOT
 emoji: 😻
