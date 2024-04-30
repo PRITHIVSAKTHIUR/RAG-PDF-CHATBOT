@@ -1,4 +1,3 @@
-## Retrieval-Augmented Generation [ RAG ] 
 ---
 title: RAG PDF CHATBOT
 emoji: 😻
@@ -10,6 +9,8 @@ app_file: app.py
 pinned: false
 license: creativeml-openrail-m
 ---
+
+## Retrieval-Augmented Generation [ RAG ] 
 
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
 
