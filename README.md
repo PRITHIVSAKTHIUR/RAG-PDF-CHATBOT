@@ -10,4 +10,26 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/RAG-PDF-CHATBOT
+
+🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/RAG-PDF-CHATBOT
+
+ℹ️Generated Result in Huggingface Spaces:
+
+ℹ️Upload the PDF & Submit Process
+
+![alt text](assets/12.png)
+
+🔮Prompt : " Tell about core of the document. "
+
+![alt text](assets/21.png)
+
+.
+
+.
+
+.
+
+.
