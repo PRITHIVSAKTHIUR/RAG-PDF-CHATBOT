@@ -24,7 +24,7 @@ license: creativeml-openrail-m
 
 🔮Prompt : " Tell about core of the document. "
 
-![alt text](assets/21.png)
+![alt text](assets/22.png)
 
 .
 
