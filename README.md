@@ -10,6 +10,9 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
+![alt text](assets/22.png)
+
+
 ## Retrieval-Augmented Generation [ RAG ] 
 
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
@@ -38,12 +41,12 @@ license: creativeml-openrail-m
 
 ## Requirements Applied 
 
-streamlit
-
-python-dotenv
-
-llama-index
-
-llama-index-embeddings-huggingface
-
-llama-index-llms-huggingface
+    streamlit
+    
+    python-dotenv
+    
+    llama-index
+    
+    llama-index-embeddings-huggingface
+    
+    llama-index-llms-huggingface
