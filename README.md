@@ -10,7 +10,7 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-![alt text](assets/22.png)
+![alt text](assets/14.png)
 
 
 ## Retrieval-Augmented Generation [ RAG ] 
